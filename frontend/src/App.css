@@ -48,7 +48,7 @@ body {
 }
 
 .status-badge.connected {
-  background-color: rgba(74, 222, 128, 0.2);
+  background-color: rgba(74, 222, 127, 0.2);
   color: var(--accent-green);
   border: 1px solid var(--accent-green);
 }
